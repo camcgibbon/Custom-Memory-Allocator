@@ -25,6 +25,7 @@ You can build the project using the provided `Makefile`. Run the following comma
 
 ```bash
 make
+```
 
 ## Running the Project
 
